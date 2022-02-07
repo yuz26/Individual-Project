@@ -1,1 +1,1 @@
-# Individual-Project
+# Heart Rate Monitor
